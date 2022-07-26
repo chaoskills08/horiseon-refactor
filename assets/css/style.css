@@ -23,7 +23,7 @@ body {
 .header h1 .seo {
   color: #d9dcd6;
 }
-
+/* Changed div to header */
 .header header {
   padding-top: 15px;
   margin-right: 20px;
@@ -31,11 +31,11 @@ body {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   font-size: 20px;
 }
-
+/* Changed div to header */
 .header header ul {
   list-style-type: none;
 }
-
+/* Changed div to header */
 .header header ul li {
   display: inline-block;
   margin-left: 25px;
